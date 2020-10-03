@@ -1,0 +1,12 @@
+/Users/richmondyeboah/Downloads/GinoGenius/GinoGenius/bin/Release/GinoGenius.exe.config
+/Users/richmondyeboah/Downloads/GinoGenius/GinoGenius/bin/Release/GinoGenius.exe
+/Users/richmondyeboah/Downloads/GinoGenius/GinoGenius/bin/Release/GinoGenius.pdb
+/Users/richmondyeboah/Downloads/GinoGenius/GinoGenius/obj/Release/GinoGenius.Form1.resources
+/Users/richmondyeboah/Downloads/GinoGenius/GinoGenius/obj/Release/GinoGenius.Form3.resources
+/Users/richmondyeboah/Downloads/GinoGenius/GinoGenius/obj/Release/GinoGenius.MoveObject.resources
+/Users/richmondyeboah/Downloads/GinoGenius/GinoGenius/obj/Release/GinoGenius.Play.resources
+/Users/richmondyeboah/Downloads/GinoGenius/GinoGenius/obj/Release/GinoGenius.Properties.Resources.resources
+/Users/richmondyeboah/Downloads/GinoGenius/GinoGenius/obj/Release/GinoGenius.csproj.GenerateResource.cache
+/Users/richmondyeboah/Downloads/GinoGenius/GinoGenius/obj/Release/GinoGenius.csproj.CoreCompileInputs.cache
+/Users/richmondyeboah/Downloads/GinoGenius/GinoGenius/obj/Release/GinoGenius.exe
+/Users/richmondyeboah/Downloads/GinoGenius/GinoGenius/obj/Release/GinoGenius.pdb
